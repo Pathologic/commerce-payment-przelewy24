@@ -1,8 +1,8 @@
 //<?php
 /**
- * Payment PayPal
+ * Payment Przelewy24
  *
- * PayPal payments processing
+ * Przelewy24 payments processing
  *
  * @category    plugin
  * @version     1.0.0
